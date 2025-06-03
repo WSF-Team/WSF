@@ -2,6 +2,16 @@
 
 Informationen zu allen Zertifikaten.
 
+## [National Science Library, Chinese Academy of Sciences:](accent://)
+
+**Berechtigungeb**:
+
+Push-Benachrichtigung: 🟢
+
+**Ablaufdatum**:
+
+07/08/2025: ✅ 
+
 ## [HDFC Bank Limited:](accent://)
 
 **Berchtigungen**:
