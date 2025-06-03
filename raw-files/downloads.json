@@ -7,7 +7,7 @@
     },
         {
       "note" : "IPA for 3.3.0",
-      "downloadURL" : "https:\/\/files.catbox.moe\/uvmfut.ipa",
+      "downloadURL" : "https:\/\/files.catbox.moe\/gotf6z.ipa",
       "name" : "Portal Beta"
     },
     {
@@ -35,10 +35,6 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/HDFC\/manifest.plist"
         },
         {
-          "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist"
-        },
-        {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
@@ -49,10 +45,6 @@
         {
           "certName" : "Toyota",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist"
-        },
-        {
-          "certName" : "VietnamElec",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist"
         }
       ]
     },
@@ -61,32 +53,24 @@
       "name" : "Feather",
       "certs" : [
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist",
-          "certName" : "Continent"
+          "certName" : "Continent",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/HDFC\/manifest.plist",
-          "certName" : "HDFC"
+          "certName" : "HDFC",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/HDFC\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist",
-          "certName" : "Mahindra"
+          "certName" : "Sunshine",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist",
-          "certName" : "Sunshine"
+          "certName" : "Sunshine2",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist",
-          "certName" : "Sunshine2"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Toyota\/manifest.plist",
-          "certName" : "Toyota"
-        },
-        {
-          "certName" : "VietnamElec",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist"
+          "certName" : "Toyota",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Toyota\/manifest.plist"
         }
       ]
     }
