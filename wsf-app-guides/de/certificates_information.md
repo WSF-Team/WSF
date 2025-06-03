@@ -2,7 +2,7 @@
 
 Informationen zu allen Zertifikaten.
 
-## [National Science Library, Chinese Academy of Sciences:](accent://)
+### [National Science Library:](accent://)
 
 **Berechtigungeb**:
 
@@ -12,7 +12,7 @@ Push-Benachrichtigung: 🟢
 
 07/08/2025: ✅ 
 
-## [HDFC Bank Limited:](accent://)
+### [HDFC Bank Limited:](accent://)
 
 **Berchtigungen**:
 
