@@ -2,6 +2,16 @@
 
 Information for all Certificates.
 
+### [National Science Library:](accent://)
+
+**Permissions**:
+
+Push Notifications: 🟢
+
+**Expiration**:
+
+07/08/2025:✅
+
 ### [Continent:](accent://)
 
 **Permissions**:
