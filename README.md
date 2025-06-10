@@ -24,7 +24,7 @@ Advantages:
 
 You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv).
 
-If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see for yourself.
+If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and I'll send you a viewing invite so you can see for yourself.
 
 If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, which is your own local network.
 
@@ -146,7 +146,7 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 
 3. Open settings and go to General > VPN & Device Management > Certificate you selected
 
-4. Click on Trust at the top then click on allow, after this your device might need to be restarted
+4. Click on Trust at the top then click on allow. After this, your device might need to be restarted
 
 5. If your device was restarted, swipe up and click on install profile
 
@@ -164,7 +164,7 @@ Download Link is in the #links channel in the Discord [Server](https://wsfteam.x
 
 - Integrity could not be verified? 
 
-Try other downloads links, if they don't work, then follow this [guide](#fixing-revokes).
+Try other download links, if they don't work, then follow this [guide](#fixing-revokes).
 
 ---
 
