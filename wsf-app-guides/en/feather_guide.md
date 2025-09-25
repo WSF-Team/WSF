@@ -8,9 +8,7 @@ This guide will teach you on how to install and use Feather.
 
 ### [Part [1/3] Installing Feather](accent://)
 
-1. Go to the Downloads tab in Portal and click on any of the Feather links, use the one that worked with Portal.
-
-2. Click on install once the popup comes up
+1. Go to the Downloads tab in Portal and click on Feather, then Feather IPA, Install this using the Signer tab in Portal, Read Portal guide for this.
 
 ### [Part [2/3] Setting up Feather](accent://)
 
