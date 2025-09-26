@@ -2,15 +2,9 @@
 
 Questa guida ti insegnerà ad installare e utilizzare Feather.
 
-## [Altre guide](accent://)
-
-[Video Tutorial di TechJunkieAman](https://youtu.be/8DiBMAdLMiY)
-
 ### [Part [1/3] Installare Feather](accent://)
 
-1. Vai nel tab Download in Portal e clicca su uno qualsiasi dei link ESign, usa quello che ha funzionato con Portal.
-
-2. Clicca su installa una volta che appare il popup
+1. Vai nel tab Download in Portal e clicca su uno qualsiasi dei link ESign, usa quello che ha funzionato con Portal. Leggi la guida di Portal per farlo.
 
 ### [Part [2/3] Configurare Feather](accent://)
 

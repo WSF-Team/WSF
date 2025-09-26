@@ -2,13 +2,15 @@
 
 Alcune linee guida da seguire per assicurarsi che le app non subiscano revoke.
 
-Recentemente Apple ha iniziato ad utilizzare nuovi domini per revocare applicazioni sideloaded. Possiamo bloccare questi domini ma questo impedirà l'installazione di nuove app.
+Per ora dovrai usare il profilo INSTALL ONLY DNS quando installi le app:
 
-Di conseguenza, dovrai utilizzare la variante INSTALL ONLY quando installi le app:
-As a result, you have to use the INSTALL ONLY variant when installing apps:
-Settings > General> VPN & Device Management > Restrictions and Proxies > Config Profile che hai scelto
+Settings > General> VPN & Device Management > DNS > Config Profile che hai scelto
 
-Dopo aver utilizzato la variante INSTALL ONLY, dovrai tornare all'altro profilo per assicurarti di non subire revoke
+Dopo aver utilizzato la variante INSTALL ONLY, dovrai aprire l'app installata e poi tornare all'altro profilo quando hai finito.
+
+- Usa INSTALL ONLY DNS quando installi le app
+
+- Cambia l'INSTALL ONLY DNS quando hai finito di installare le app
 
 - Non devi mai disattivare il Config Profile!
 
