@@ -1,1 +1,12 @@
-{}
+[
+  {
+    "localizedName" : "First",
+    "localizedDescription" : "This is a Test Guide",
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/First.md"
+  },
+  {
+    "localizedName" : "Second",
+    "localizedDescription" : "This is a 2nd Test Guide",
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/Second.md"
+  }
+]
