@@ -4,7 +4,7 @@
     "tags" : [
       "certificates"
     ],
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Lists all available signing certificates and their expiration dates.",
     "localizedName" : "Certificates Information"
   },
   {
@@ -12,17 +12,17 @@
     "tags" : [
       "esign"
     ],
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Learn how to install, set up, and use ESign to sign and install apps.",
     "localizedName" : "ESign Guide"
   },
   {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/feather_guide.md",
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Learn how to install, set up, and use Feather to sign and install apps.",
     "localizedName" : "Feather Guide"
   },
   {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/portal_guide.md",
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Learn how to set up Portal and sign IPA files with your certificates.",
     "localizedName" : "Portal Guide"
   },
   {
@@ -33,7 +33,7 @@
       "feather",
       "altstore"
     ],
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Find app source URLs in the Discord server's #sources channel.",
     "localizedName" : "Sources"
   },
   {
@@ -42,7 +42,7 @@
       "vpn",
       "setup"
     ],
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Configure your VPN's DNS settings to work with the signing platform.",
     "localizedName" : "VPN Guide"
   },
   {
@@ -50,7 +50,7 @@
     "tags" : [
       "setup"
     ],
-    "localizedDescription" : "PLACEHOLDER",
+    "localizedDescription" : "Essential guidelines to prevent app revokes after installation.",
     "localizedName" : "Post Install Notes"
   }
 ]
