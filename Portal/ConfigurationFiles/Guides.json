@@ -1,12 +1,37 @@
 [
   {
-    "localizedName" : "First",
-    "localizedDescription" : "This is a Test Guide",
-    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/First.md"
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/certificates_information.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Certificates Information"
   },
   {
-    "localizedName" : "Second",
-    "localizedDescription" : "This is a 2nd Test Guide",
-    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/Second.md"
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/esign_guide.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "ESign Guide"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/feather_guide.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Feather Guide"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/portal_guide.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Portal Guide"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/post_install_notes.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Post Install Notes"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/sources.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Sources"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/vpn_guide.md",
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "VPN Guide"
   }
 ]
