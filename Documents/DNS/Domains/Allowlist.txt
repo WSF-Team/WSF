@@ -1,0 +1,9 @@
+push.apple.com
+api.push.apple.com
+mask-api.icloud.com
+mask-canary.icloud.com
+mask-h2.icloud.com
+register.appattest.apple.com
+api.development.push.apple.com
+api.palera.in
+app.localhost.direct

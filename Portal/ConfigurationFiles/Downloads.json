@@ -1,0 +1,41 @@
+{
+  "files" : [
+    {
+      "note" : "NOTE: Certificates will be moved to the WSF Source soon",
+      "downloadURL" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/certificates.zip",
+      "name" : "Certificates"
+    },
+    {
+      "note" : "NOTE: Dylibs will be moved to the WSF Source soon",
+      "downloadURL" : "https:\/\/files.catbox.moe\/dt99j7.zip",
+      "name" : "Dylibs"
+    },
+    {
+      "note" : "- Kanye West",
+      "downloadURL" : "https:\/\/files.catbox.moe\/ue31ly.zip",
+      "name" : "Bully V1"
+    }
+  ],
+  "apps" : [
+    {
+      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/esign.png",
+      "name" : "ESign",
+      "certs" : [
+        {
+          "certName" : "ESign IPA",
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/ESign.ipa"
+        }
+      ]
+    },
+    {
+      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/feather.png",
+      "name" : "Feather",
+      "certs" : [
+        {
+          "certName" : "Feather IPA",
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/Feather.ipa"
+        }
+      ]
+    }
+  ]
+}
