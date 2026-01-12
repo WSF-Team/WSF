@@ -1,12 +1,12 @@
-## [Installing ESign](accent://)
+## Installing ESign (accent://)
 
 This guide will teach you on how to install and use ESign.
 
-### [Part [1/3] Installing ESign](accent://)
+### Part 1/3 Installing ESign (accent://)
 
 1. Go to the Downloads tab in Portal and click on ESign, then Esign IPA, Install this using the Signer tab in Portal, Read the Portal guide for this.
 
-### [Part [2/3] Setting up ESign](accent://)
+### Part 2/3 Setting up ESign (accent://)
 
 1. Go to the Downloads tab in Portal and click on Certificates
 
@@ -22,7 +22,7 @@ This guide will teach you on how to install and use ESign.
 
 7. Go to AppStore in ESign and click on App Source and then the Plus icon, click on add all
 
-### [Part [3/3] Using ESign](accent://)
+### Part 3/3 Using ESign (accent://)
 
 1. Download any app using the AppStore in ESign
 
