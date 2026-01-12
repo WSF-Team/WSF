@@ -1,12 +1,12 @@
-## [Installing Feather](accent://)
+## Installing Feather (accent://)
 
 This guide will teach you on how to install and use Feather.
 
-### [Part [1/3] Installing Feather](accent://)
+### Part 1/3 Installing Feather (accent://)
 
 1. Go to the Downloads tab in Portal and click on Feather, then Feather IPA, Install this using the Signer tab in Portal, Read the Portal guide for this.
 
-### [Part [2/3] Setting up Feather](accent://)
+### Part 2/3 Setting up Feather (accent://)
 
 1. Go to the Downloads tab in Portal and click on Certificates
 
@@ -26,7 +26,7 @@ This guide will teach you on how to install and use Feather.
 
 9. Click on Add Repo and select Import Repositories
 
-### [Part [3/3] Using Feather](accent://)
+### Part 3/3 Using Feather (accent://)
 
 1. Download any app using the sources in Feather
 
