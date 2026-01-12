@@ -1,8 +1,8 @@
-## [Portal Guide](accent://)
+## Portal Guide (accent://)
 
 This guide will teach you on how to use Portal.
 
-### [Part [1/2] Setting up Portal](accent://)
+### Part 1/2 Setting up Portal (accent://)
 
 1. Go to the Downloads tab in Portal and click on Certificates
 
@@ -21,7 +21,7 @@ This guide will teach you on how to use Portal.
 8. Save and then go back to the sources screen, you may need to pull down to refresh the page
 
 
-### [Part [2/2] Using Portal](accent://)
+### Part 2/2 Using Portal (accent://)
 
 1. Download any app using the sources in Portal
 

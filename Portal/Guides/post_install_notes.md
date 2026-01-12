@@ -1,6 +1,6 @@
-# [Post Install Notes](accent://)
+# Post Install Notes (accent://)
 
-### [Part [1/1] Post Install Notes](accent://)
+### Part 1/1 Post Install Notes (accent://)
 
 Some guidelines to follow to ensure your apps don't get revoked.
 
