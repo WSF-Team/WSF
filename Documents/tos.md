@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 16/01/26
+**Last Updated:** 17/01/26
 
 By purchasing our iDevice certificate services, you confirm that you have **read, understood, and accepted** these Terms.
 
