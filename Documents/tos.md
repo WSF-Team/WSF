@@ -116,7 +116,7 @@ Do **not** expect support through any other platform.
 
 “Instant” means **anything under 4 hours**. This is much better than the default 3 day wait.
 
-Most certificates are processed in **under 5 minutes**, but delays can happen because this is **a partially automated service**.
+Most certificates are processed in **under 15 minutes**, but delays can happen because this is **a partially automated service**.
 
 Processing is **fast and reliable**, but not magical.  
 
