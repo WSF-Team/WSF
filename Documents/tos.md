@@ -10,7 +10,7 @@ If you have agreed to these Terms, then you are ready to buy.
 
 ---
 
-## 1. Service (Read This Carefully)
+## 1. Service
 We sell **iDevice signing certificates**
 They are provided **“as is”**
 
@@ -19,7 +19,7 @@ Apple controls the certificates. Once issued, **we do not**.
 
 ---
 
-## 2. No Guarantees (Zero, None, Nada)
+## 2. No Guarantees
 We do **not** guarantee:
 * Certificate lifespan  
 * Protection from revocations  
@@ -45,15 +45,15 @@ By purchasing, you acknowledge that:
 * The service is delivered immediately
 * You waive **all rights** to dispute the payment
 
-**Refunds are ONLY provided if:**
+**Refunds are ONLY provided in special cases if:**
 * We completely fail to provide the product  
-* Your device has **not** been processed  
+* Your device has **not** been processed
 
 Anything else? **No refund.**
 
 ---
 
-## 4. User Responsibility (Yes, This Is On You)
+## 4. User Responsibility
 You are fully responsible for:
 * How you use the certificate
 * Complying with all applicable laws (piracy, abuse, etc.)
@@ -66,11 +66,11 @@ If you provide:
 * Any incorrect data at all
 
 That is **100% your responsibility**.  
-**No refunds. No replacements. No exceptions. No crying.**
+**No refunds. No replacements. No crying.**
 
 ---
 
-## 5. Discord & Support Policy
+## 5. Support Policy
 All support is tied to our **Discord server**.
 
 * Support and warranty exist **only while you remain in good standing**
@@ -91,16 +91,16 @@ We are **not responsible** for:
 * Any actions taken by Apple
 
 Our total liability is:
-**Nothing. Zero. Null. Nada.**
+**Zero. Nothing. Null. Nada.**
 
 We provide **no warranties, protection, or guarantees**.  
-You receive the certificate you paid for — **our obligation ends there**.
+You receive the certificate you paid for..
 
 ---
 
 ## 7. Changes
 These Terms may change at any time without notice.  
-By purchasing, you automatically accept the latest version.
+By purchasing, you automatically accept that the latest version will be the TOS in effect.
 
 ---
 
