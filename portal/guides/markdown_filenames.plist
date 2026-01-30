@@ -16,18 +16,6 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>ESign Guide</string>
-		<key>file_name</key>
-		<string>esign_guide.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
-		<string>Feather Guide</string>
-		<key>file_name</key>
-		<string>feather_guide.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Post Install Notes</string>
 		<key>file_name</key>
 		<string>post_install_notes.md</string>
