@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>file_title</key>
+		<string>Resources</string>
+		<key>file_name</key>
+		<string>resources.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
 		<string>Certificate Information</string>
 		<key>file_name</key>
 		<string>certificates_information.md</string>
