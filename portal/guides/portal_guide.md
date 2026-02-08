@@ -2,35 +2,29 @@
 
 This guide will teach you on how to install and use Portal.
 
-### Part 1/3 Installing Portal (accent://)
+### Part 1/2 Setting up Portal (accent://)
 
-1. Go to the Downloads tab in Portal and click on Portal, then Portal IPA, Install this using the Signer tab in Portal, Read the Portal guide for this.
+1. Go to the Guides tab in Portal and click on Resources
 
-### Part 2/3 Setting up Portal (accent://)
-
-1. Go to the Downloads tab in Portal and click on Certificates
-
-2. Portal will then download the Certificates.zip
+2. Download the Certificates.zip
 
 3. Go into Files and navigate to On My iPhone > Portal > Downloads
 
 4. Tap on the Certificates.zip once, you should now see a Certificates folder
 
-5. Open Portal and click on continue
+5. Got to Portal Settings > Certificates and click on the  plus icon
 
-6. Go to Settings and click on Add Certificate
+6. Import the certificate you used to download Portal from the Certificates folder we extracted
 
-7. Click on the plus icon and import the .mobileprovision and .p12 from On My iPhone > Portal > Downloads > Certificates, find the certificate you used to download Portal, the password is "WSF"
+7. Go into Portal's Guides tab and find the Sources, then copy the URLs
 
-8. Go into Portal's Guides tab and find the Sources, then copy the URLs
+8. Click on the plus icon in the sources tab and select Import
 
-9. Click on Add Repo and select Import Repositories
-
-### Part 3/3 Using Portal (accent://)
+### Part 2/2 Using Portal (accent://)
 
 1. Download any app using the sources in Portal
 
-2. Once the app is downloaded, you can see the app in the Library tab
+2. Once the app is downloaded, you can see the app in the Library tab under Unsigned
 
 3. Tap Sign and then select Start Signing
 
