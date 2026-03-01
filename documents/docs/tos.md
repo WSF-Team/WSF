@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 22/01/26
+**Last Updated:** 01/03/26
 
 By purchasing our iDevice certificate services, you confirm that you have **read, understood, and accepted** these Terms.
 
@@ -63,6 +63,8 @@ By purchasing, you acknowledge that:
 * We are unable to honor an **active revoke protection**, in which case **only the revoke protection fee** is refunded
 
 Anything else? **No refund.**
+
+If you or we decide to go ahead with a refund, processing fees of any kind applied to us will not be refunded to you
 
 ---
 
