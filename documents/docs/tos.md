@@ -131,14 +131,5 @@ Do **not** expect support through any other platform.
 
 ---
 
-### Instant Certificate Notice
-“Instant” means **anything under 4 hours**.
-
-Most certificates are processed in **under 15 minutes**, but delays can occur due to this being a **partially automated service**.
-
-Processing is fast and reliable, but not guaranteed to be instant.
-
-You **will** receive your certificate ASAP when we are available.
-
 Best,  
 **WSF Team**
