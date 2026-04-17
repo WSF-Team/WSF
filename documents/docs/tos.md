@@ -129,6 +129,22 @@ https://wsfteam.netlify.app/discord
 
 Do **not** expect support through any other platform.
 
+## 9. Abuse of Service / Repeat Purchases While in Bad Standing
+
+If you are in **bad standing** (including but not limited to: prior disputes, chargebacks, abuse of support, or violations of these Terms) and you continue to make purchases:
+
+* You acknowledge that you are purchasing **at your own risk**
+* You forfeit **any and all eligibility for refunds**, regardless of circumstance
+* This applies even if:
+  * The product is not delivered  
+  * Your order cannot be processed  
+  * You are unable to access support or warranty  
+
+Repeated purchases while in bad standing will be treated as **intentional abuse of service**.
+
+Under these conditions:  
+**NO refunds will be issued under any circumstances.**
+
 ---
 
 Best,  
