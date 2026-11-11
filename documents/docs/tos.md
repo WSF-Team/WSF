@@ -1,30 +1,32 @@
 # Terms of Service
 
-**Last Updated:** 01/03/26
+**Last Updated:** 12/11/26
 
-By purchasing our iDevice certificate services, you confirm that you have **read, understood, and accepted** these Terms.
+By purchasing from any of our services (each website, platform, or storefront we operate — collectively "our services"), you confirm that you have **read, understood, and accepted** these Terms.
 
-If you do not agree to these Terms, then you should not buy.
-
-If you have agreed to these Terms, then you are ready to buy.
+If you do not agree to these Terms, **do not purchase**.
 
 ---
 
 ## 1. Service
-We sell **iDevice signing certificates**.
 
-They are provided **“as is”**, with the exception of any **explicitly purchased revoke protection**.
+We sell **iDevice signing certificates** (including Basic, JIT, and PPQ certificate types, with optional **revoke protection**).
 
-We are **NOT affiliated with Apple Inc.**  
+They are provided **"as is"**, with the exception of any **explicitly purchased revoke protection**.
+
+We are **NOT affiliated with Apple Inc.**
 Apple controls the certificates. Once issued, **we do not**.
+
+You are responsible for complying with the laws that apply to you where you use your certificate. How you use your certificate is **entirely your responsibility**.
 
 ---
 
 ## 2. Guarantees & Revoke Warranty
+
 We do **not** guarantee:
-* Certificate lifespan outside of purchased revoke protection  
-* Protection from Apple policy changes  
-* Protection from Apple blacklists  
+* Certificate lifespan outside of purchased revoke protection
+* Protection from Apple policy changes
+* Protection from Apple blacklists
 
 Apple may revoke certificates **at any time**, for any reason.
 
@@ -36,39 +38,41 @@ This means:
 * Your certificate may be revoked **any number of times** during that period
 * We will **replace the certificate each time** at no additional cost
 
-If, for any reason, we are **unable to replace your certificate** during an active revoke protection period:
-* You will receive a **refund of the revoke protection fee only**
+If you purchase **one-time protection**, your certificate is protected for **a single replacement** during the period you selected.
+
+This means:
+* If your certificate is revoked, we will **replace it once** at no additional cost
+* Once that single replacement has been issued, the protection is **used up**
+* Any further revocations are **not covered** — you would need to purchase protection again
+
+If, for any reason, we are **unable to replace your certificate** during an active protection period:
+* You will receive a **refund of the protection fee only**
 * The original certificate purchase remains non-refundable
 
-Once your certificate is delivered, the base service is **completed and fulfilled**.
+Once your certificate is delivered, the base service is deemed **completed and fulfilled**.
 
 ---
 
-## 3. No Refunds / Stripe Disputes
+## 3. No Refunds / Payment Disputes
+
 This is a **digital, irreversible service**. Therefore:
 * **ALL SALES ARE FINAL**
 * **NO refunds**
 * **NO chargebacks**
-* **NO Stripe disputes**
-
-Filing a **Stripe dispute or chargeback** is a direct violation of these Terms.
 
 By purchasing, you acknowledge that:
 * The service is delivered immediately
 * You waive **all rights** to dispute the payment
 
 **Refunds are ONLY provided in special cases if:**
-* We completely fail to provide the product  
-* Your device has **not** been processed  
+* We completely fail to provide the product
+* Your device has **not** been processed
 * We are unable to honor an **active revoke protection**, in which case **only the revoke protection fee** is refunded
-
-Anything else? **No refund.**
-
-If you or we decide to go ahead with a refund, processing fees of any kind applied to us will not be refunded to you
 
 ---
 
 ## 4. User Responsibility
+
 You are fully responsible for:
 * How you use the certificate
 * Complying with all applicable laws (piracy, abuse, etc.)
@@ -77,15 +81,16 @@ You are fully responsible for:
 If you provide:
 * An incorrect **UDID**
 * The wrong device information
-* Someone else’s device details
+* Someone else's device details
 * Any incorrect data at all
 
-That is **100% your responsibility**.  
-**No refunds. No replacements. No crying.**
+That is **100% your responsibility**.
+**No refunds. No replacements.**
 
 ---
 
 ## 5. Support & Revoke Warranty Policy
+
 All support is tied to our **Discord server**.
 
 * Support and revoke warranty exist **only while you remain in good standing**
@@ -96,12 +101,13 @@ All support is tied to our **Discord server**.
 
 Replacements under revoke protection are provided **at our discretion**, limited to certificate revocations only.
 
-We provide **general support only** (installation guidance, basic help).  
+We provide **general support only** (installation guidance, basic help).
 We have the **final say** in all support- and warranty-related matters.
 
 ---
 
 ## 6. Limitation of Liability
+
 We are **not responsible** for:
 * Apple actions or policy changes
 * Blacklisted devices
@@ -110,7 +116,7 @@ We are **not responsible** for:
 Our total liability is limited to:
 * **The revoke protection fee only**, and **only if** we cannot fulfill an active revoke warranty
 
-Beyond this:  
+Beyond this:
 **Zero. Nothing. Null. Nada.**
 
 We provide **no additional warranties or guarantees** beyond what is explicitly stated.
@@ -118,16 +124,19 @@ We provide **no additional warranties or guarantees** beyond what is explicitly 
 ---
 
 ## 7. Changes
-These Terms may change at any time without notice.  
-By purchasing, you automatically accept that the latest version will be the TOS in effect.
+
+These Terms may change at any time without notice.
+By purchasing, you automatically accept that the latest version will be the Terms in effect.
 
 ---
 
 ## 8. Contact
-Support is provided **ONLY** through our official Discord:  
-https://wsfteam.netlify.app/discord
+
+Support is provided **ONLY** through our official Discord:
 
 Do **not** expect support through any other platform.
+
+---
 
 ## 9. Abuse of Service / Repeat Purchases While in Bad Standing
 
@@ -135,17 +144,8 @@ If you are in **bad standing** (including but not limited to: prior disputes, ch
 
 * You acknowledge that you are purchasing **at your own risk**
 * You forfeit **any and all eligibility for refunds**, regardless of circumstance
-* This applies even if:
-  * The product is not delivered  
-  * Your order cannot be processed  
-  * You are unable to access support or warranty  
 
 Repeated purchases while in bad standing will be treated as **intentional abuse of service**.
 
-Under these conditions:  
+Under these conditions:
 **NO refunds will be issued under any circumstances.**
-
----
-
-Best,  
-**WSF Team**
